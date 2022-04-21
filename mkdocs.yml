@@ -8,7 +8,10 @@ extra:
 #-----------------Navigation----------------------------------------
 nav:
     - Home: index.md
-
+    - Data Structures:
+        - data_struct/index.md
+    - About:
+        - Contributing: about/contributing.md
 
 #-----------------THEME---------------------------------------------
 theme: # https://squidfunk.github.io/mkdocs-material/getting-started/
